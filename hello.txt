@@ -1,5 +1,5 @@
 hello git master modify
-dirng
+dirng thrid test
 新增文件qqq
 新增文件333
 新增文件dienrf
